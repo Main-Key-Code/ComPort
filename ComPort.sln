@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComPort", "ComPort.csproj", "{71D929B1-04B3-4E99-8CBD-B53AE02743A9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DIY_Serial_Terminal", "Setup\Setup.vdproj", "{4A7F80D9-F4F4-4A75-BBE6-36633A9E8FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D929B1-04B3-4E99-8CBD-B53AE02743A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D929B1-04B3-4E99-8CBD-B53AE02743A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D929B1-04B3-4E99-8CBD-B53AE02743A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D929B1-04B3-4E99-8CBD-B53AE02743A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7F80D9-F4F4-4A75-BBE6-36633A9E8FA9}.Debug|Any CPU.ActiveCfg = Debug
+		{4A7F80D9-F4F4-4A75-BBE6-36633A9E8FA9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08C59DC-C609-470D-8F43-C77DB7303D52}
+	EndGlobalSection
+EndGlobal
